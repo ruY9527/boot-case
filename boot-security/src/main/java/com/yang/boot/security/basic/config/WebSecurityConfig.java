@@ -1,5 +1,6 @@
 package com.yang.boot.security.basic.config;
 
+import com.yang.boot.security.basic.config.filter.VerificationCodeFilter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
@@ -8,6 +9,7 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.authentication.AuthenticationFailureHandler;
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
+import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
@@ -31,7 +33,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         log.info("Using default configure(HttpSecurity).");
         // http.authorizeRequests().anyRequest().authenticated().and().formLogin().and().httpBasic();
         // http.authorizeRequests().anyRequest().authenticated().and().formLogin().loginPage("/myLogin.html").permitAll().and().csrf().disable();
-        http.authorizeRequests().anyRequest().authenticated()
+        http.authorizeRequests()
+                .antMatchers("/capth/**","/captcha.jpg").permitAll()
+                .anyRequest().authenticated()
                 .and().formLogin().loginPage("/myLogin.html").loginProcessingUrl("/login")
                 .successHandler(new AuthenticationSuccessHandler() {
                     @Override
@@ -50,5 +54,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                         printWriter.write("{\"error_code\":\"401\",\"message\":\"" + e.getMessage() + "\"}");
             }
         }).permitAll().and().csrf().disable();
+
+        http.addFilterBefore(new VerificationCodeFilter(), UsernamePasswordAuthenticationFilter.class);
     }
 }
