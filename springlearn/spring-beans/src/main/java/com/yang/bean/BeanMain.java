@@ -3,10 +3,7 @@ package com.yang.bean;
 import com.yang.bean.obj.BeanOne;
 import org.springframework.beans.factory.support.AbstractBeanFactory;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
-import org.springframework.context.support.AbstractApplicationContext;
-import org.springframework.context.support.AbstractRefreshableApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.GenericApplicationContext;
+import org.springframework.context.support.*;
 import org.springframework.core.env.AbstractPropertyResolver;
 import org.springframework.util.PropertyPlaceholderHelper;
 
@@ -84,7 +81,37 @@ public class BeanMain {
      *         beanFactory.clearMetadataCache(); 方法, 走到 {@link DefaultListableBeanFactory} 中来, 再往下走 {@link AbstractBeanFactory} 到这个类中来,
      *         可以看出来是对一些集合(Map)中的元素进行clear清除方法.
      *
-     *   6 : registerBeanPostProcessors(beanFactory);方法.
+     *   6 : registerBeanPostProcessors(beanFactory);方法. 注册拦截bean创建的bean处理器(注释翻译)。
+     *       这里面都是直接走 PostProcessorRegistrationDelegate.registerBeanPostProcessors(beanFactory, this);
+     *       {@link PostProcessorRegistrationDelegate}
+     *       使用beanFactory 根据 BeanPostProcessor.class 来获取出beanNames.根据beanFactory.getBeanPostProcessorCount()方法返回的值+1+BeanPostProcessor.class
+     *       的个数,beanProcessorTargetCount来记录. 然后往beanFactory中添加BeanPostProcessorChecker,目测是来检查这些BeanPostProcessor信息是否合格.
+     *       然后根据  BeanPostProcessor.class 获取出来的beanNames,来分为四类,分别使用四个集合来封装.
+     *       priorityOrderedPostProcessors / internalPostProcessors / orderedPostProcessorNames / nonOrderedPostProcessorNames
+     *       前面二个封装的是对应具体的BeanPostProcessor,而后面是二个集合是封装的beanName(bd的名字)
+     *       priorityOrderedPostProcessors 排序,调用 registerBeanPostProcessors 方法(这里并不是递归调用自身,注意传入进去的参数类型是不一样的,虽然名字是一样的).
+     *       然后接着处理 orderedPostProcessorNames 集合,也是先排序,最后调用 registerBeanPostProcessors 方法.
+     *       再接着调用 nonOrderedPostProcessorNames 方法,如果beanPost是属于MergedBeanDefinitionPostProcessor的话,就会放在这个internalPostProcessors里面
+     *
+     *       可以看到的是,先处理  nonOrderedPostProcessors 集合信息, internalPostProcessors在排序下,然后调用同样的方法进行处理.
+     *       registerBeanPostProcessors(beanFactory, nonOrderedPostProcessors);
+     *       sortPostProcessors(internalPostProcessors, beanFactory);
+     * 		registerBeanPostProcessors(beanFactory, internalPostProcessors);
+     *
+     *      最后调用的这个方法,beanFactory添加BeanPostProcessor.具体存放的值是:new ApplicationListenerDetector(applicationContext)
+     * 	    beanFactory.addBeanPostProcessor(new ApplicationListenerDetector(applicationContext));
+     *   7 : initMessageSource(); TODO 后续分析
+     *   8 : initApplicationEventMulticaster(); TODO 后续分析
+     *   9 : onRefresh(); 这个方法目前仅仅看Spring源码是很难分析出来的,如果你debug看SpringBoot的源码,就会发现这行代码是初始化tomcat,往下走会看到
+     *        Tomcat tomcat = new Tomcat()等代码
+     *   10 : registerListeners(); 检查侦听器bean并注册它们(注释译文)。 TODO 后续分析
+     *   11 : finishBeanFactoryInitialization(beanFactory);  实例化所有剩余的（非延迟初始化）单例。(注释译文).
+     *        先判断是否包含 conversionService 这个bean的名字,并且是 ConversionService.class 类型,就会从beanFactory中获取Bean走setConversionService方法
+     *        判断 beanFactory.hasEmbeddedValueResolver() 如果是false的话,就会beanFactory.addEmbeddedValueResolver(strVal -> getEnvironment().resolvePlaceholders(strVal));
+     *        根据 LoadTimeWeaverAware.class 类型来获取出 beanNames,迭代beanNames,每个beanName都会走getBean方法,
+     *        先判断 BeanFactory是否是活跃的,不会活跃的就会抛出异常来. 然后获取beanFactory,走getBean方法.
+     *        getBeanFactory().getBean(name); 这是获取Bean的方法,很重要的,后面有代码了可以具体看到内容debug走的流程再来详细的更新过程. TODO
+     *
      *
      *
      *
