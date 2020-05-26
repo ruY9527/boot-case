@@ -4,6 +4,7 @@ import com.yang.bean.anno.YangServiceImpl;
 import org.springframework.beans.factory.support.AbstractBeanFactory;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigUtils;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericApplicationContext;
@@ -46,6 +47,31 @@ public class AnnoBeanMain {
      *                             然后走完这个 doGetBean就会返回一个 NamedBeanHolder. 也就是走5后面说的逻辑。这个时候,获取bean就已经结束了.
      *
      *
+     *
+     * */
+
+    /**
+     * AnnotationConfigApplicationContext 构造方法走向阅读,这里会把传入进去的 AnnoBeanMain 当做成是一个Bean,然后注册到Spring中去.
+     *  register(componentClasses); --->  registerBean(Class<?> beanClass) --->  doRegisterBean(这里面是有一些参数的)
+     *  根据这些名字可以很明显的看出来,这里是做注册bean的操作.  于是就看下是怎么将这个类当做bean注入进去的.
+     *  传入类,new 一个 AnnotatedGenericBeanDefinition (BeanDefinition,这个是存储bean很多信息的类),abd,
+     *  判断下这个 abd这个bean是不是一个跳过去,如果是要跳过去的话,这里就会返回,return.
+     *  在获取,ScopeMetadata scopeMetadata = this.scopeMetadataResolver.resolveScopeMetadata(abd);
+     *   scopeMetadata 中 scopeName是 singleton,很明显这里就是单利的意思. scopeProxyMode 对应的 No, 这里应该是 是不是代码模型?的意思
+     *   再获取beanname的名字, {@link AnnotationConfigUtils} 这个里面的,processCommonDefinitionAnnotations 方法,
+     *      是对 lazy/ DependsOn.class / Primary.class.getName() / Role.class / Description.class 等的一些判断.
+     *   然后 BeanDefinitionHolder definitionHolder = new BeanDefinitionHolder(abd, beanName);  这里是new出一个BeanDefinitonHolder对象来,
+     *   BeanDefinitionReaderUtils.registerBeanDefinition(definitionHolder, this.registry);  --->
+     *   this.beanFactory.registerBeanDefinition(beanName, beanDefinition);
+     *   {@link DefaultListableBeanFactory} 中的 registerBeanDefinition 方法就是将bdgolder注册到Spring中去的方法.
+     *   传入 beanName 和 BeanDefinition .  先对传入进来的 beanDefinition进行 validate 的检验,
+     *   this.beanDefinitionMap.put(beanName, beanDefinition);
+     *   this.beanDefinitionNames.add(beanName);
+     *   removeManualSingletonName(beanName);
+     *   我这里debug是走的这三行代码, 将beanDefinition放入到 beanDefinitionMap中, beanName就被添加到 beanDefinitionNames中.
+     *   最后调用removeManualSingletonName来删除这个beanName. 手动删除这个单列的bean名字,个人感觉这里应该是多存放了beanName,于是就调用这个方法来进行删除.
+     *   最后就是一路返回,走到这里的,这个构造方法的register(componentClasses); 就基本走完了,还是比较好理解的就是, 将AnnoBeanMain.Class 当做bean注入到
+     *   Spring容器中.
      *
      * */
     public static void main(String[] args) {
