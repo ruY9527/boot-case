@@ -1,5 +1,6 @@
 package com.yang.bean;
 
+import com.yang.bean.anno.YangBeanPost;
 import com.yang.bean.anno.YangServiceImpl;
 import org.springframework.beans.factory.support.AbstractBeanFactory;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
@@ -78,7 +79,13 @@ public class AnnoBeanMain {
 
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AnnoBeanMain.class);
 
-        YangServiceImpl yangService = context.getBean(YangServiceImpl.class);
+        //YangServiceImpl yangService = context.getBean(YangServiceImpl.class);
+        YangBeanPost yangBeanPost = context.getBean(YangBeanPost.class);
+
     }
 
+    public AnnoBeanMain(){
+
+        System.out.println("AnnoBeanMain 无惨构造方法");
+    }
 }

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="boot-dubbo-consumer" />
+        <module name="boot-source-learn" />
         <module name="boot-dubbo-common" />
         <module name="springbeans" />
         <module name="boot-dubbo-prodiver" />
@@ -17,6 +18,7 @@
       <module name="boot-dubbo-consumer" target="1.8" />
       <module name="boot-dubbo-init" target="1.8" />
       <module name="boot-dubbo-prodiver" target="1.8" />
+      <module name="boot-source-learn" target="1.8" />
       <module name="springbeans" target="1.8" />
       <module name="springlearn" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +28,7 @@
       <module name="boot-dubbo-common" options="-parameters" />
       <module name="boot-dubbo-consumer" options="-parameters" />
       <module name="boot-dubbo-prodiver" options="-parameters" />
+      <module name="boot-source-learn" options="-parameters" />
     </option>
   </component>
 </project>
