@@ -1,5 +1,7 @@
 package com.yang.bean.anno;
 
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
@@ -10,10 +12,15 @@ import org.springframework.stereotype.Service;
  */
 
 @Service
-public class YangServiceImpl {
+public class YangServiceImpl implements InitializingBean {
 
     public YangServiceImpl(){
         System.out.println("YangServiceImpl 无参构造函数");
+    }
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
+
     }
 
 }

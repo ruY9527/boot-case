@@ -1,0 +1,17 @@
+------ Spring 一些问题记录
+
+What do you understand by the Spring IoC Container? Explain their types.
+Spring Ioc是Spring核心.容器使用依赖注入来管理各种Spring应用程序组件.
+Ioc容器负责创建对象,对其进行配置,将它们连接一起以及管理其生命周期.
+ApplicationContext :  比BeanFactory功能更强大一点.
+BeanFactory : 一个类包含bean集合.
+
+-----
+
+Please explain the Bean lifecycle in Spring Bean Factory Container?
+Bean的生命周期始于SpringIoc容器.
+在Bean定义中的制定,Spring使用DI填充属性.
+If the bean implements the BeanNameAware interface then the setBeanName() method is called by passing the bean ID
+bean实现BeanFactoryAware接口,则通过传递bean的实例来调用setFactory方法.
+
+

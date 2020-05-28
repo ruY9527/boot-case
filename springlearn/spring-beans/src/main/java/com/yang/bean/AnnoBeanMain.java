@@ -1,6 +1,8 @@
 package com.yang.bean;
 
+import com.yang.bean.anno.YangBeanFactory;
 import com.yang.bean.anno.YangBeanPost;
+import com.yang.bean.anno.YangBeanWare;
 import com.yang.bean.anno.YangServiceImpl;
 import org.springframework.beans.factory.support.AbstractBeanFactory;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
@@ -10,6 +12,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericApplicationContext;
 import org.springframework.core.ResolvableType;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * @Author: Mu_Yi
@@ -80,7 +85,8 @@ public class AnnoBeanMain {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AnnoBeanMain.class);
 
         //YangServiceImpl yangService = context.getBean(YangServiceImpl.class);
-        YangBeanPost yangBeanPost = context.getBean(YangBeanPost.class);
+        // YangBeanWare yangBeanWare = context.getBean(YangBeanWare.class);
+        // System.out.println(yangBeanWare.getBeanBean());
 
     }
 

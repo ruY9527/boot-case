@@ -12,73 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a7bef5c-3e14-4ef5-8c96-d2b0338179fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangTwoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanWare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/resources/bean_request" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springlearn/spring-beans/target/classes/com/yang/bean/AnnoBeanMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn/spring-beans/target/classes/com/yang/bean/AnnoBeanMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springlearn/spring-beans/target/classes/com/yang/bean/anno/YangBeanPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn/spring-beans/target/classes/com/yang/bean/anno/YangBeanPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/boot-dubbo-init/boot-dubbo-prodiver/target/" />
     <ignored path="$PROJECT_DIR$/boot-dubbo-init/boot-dubbo-consumer/target/" />
@@ -113,44 +52,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/BootSourceLearnApplication.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/NameMatchMethodPointcutAdvisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="39" column="85" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+            <state relative-caret-position="285">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/Pointcuts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1121">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <folding>
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1839#1840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/RegexpMethodPointcutAdvisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1043">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <element signature="e#3954#3955#0" expanded="true" />
+                <element signature="e#3997#3998#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/resources/bean_request">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanWare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangTwoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+        <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="422" column="30" selection-start-line="422" selection-start-column="30" selection-end-line="422" selection-end-column="30" />
+            <state relative-caret-position="387">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
               <folding>
-                <element signature="e#9896#9897#0" expanded="true" />
-                <element signature="e#9929#9930#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="271" selection-start-line="271" selection-end-line="271" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE-sources.jar!/org/springframework/boot/WebApplicationType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -181,6 +188,7 @@
       <find>getBean</find>
       <find>initWebApplicationContext</find>
       <find>initServletBean</find>
+      <find>获取的BeanFactory名字</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,10 +207,14 @@
         <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/BeanMain.java" />
         <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanConfig.java" />
         <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangTwoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java" />
         <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanPost.java" />
         <option value="$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/controller/TestController.java" />
         <option value="$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/BootSourceLearnApplication.java" />
+        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/resources/bean_request" />
+        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanWare.java" />
+        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java" />
+        <option value="$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanFactory.java" />
       </list>
     </option>
   </component>
@@ -245,6 +257,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,53 +268,231 @@
             <path>
               <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
               <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
               <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
               <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bootsourcelearn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
               <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
-              <item name="boot-source-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bootsourcelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="anno" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-case-self" type="462c0819:PsiDirectoryNode" />
+              <item name="springlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-beans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="autoproxy" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="scope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boot-case-self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,7 +526,7 @@
     </option>
     <option name="contentProportion" value="0.075885326" />
   </component>
-  <component name="RunManager" selected="Spring Boot.BootSourceLearnApplication">
+  <component name="RunManager" selected="Application.AnnoBeanMain">
     <configuration name="AnnoBeanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.bean.AnnoBeanMain" />
       <module name="springbeans" />
@@ -401,7 +592,9 @@
       <workItem from="1590405155410" duration="2879000" />
       <workItem from="1590497415403" duration="998000" />
       <workItem from="1590567944904" duration="5395000" />
-      <workItem from="1590575929716" duration="2162000" />
+      <workItem from="1590575929716" duration="2354000" />
+      <workItem from="1590629270629" duration="247000" />
+      <workItem from="1590654702841" duration="8486000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交阅读Spring源码记录代码">
       <created>1590310678177</created>
@@ -417,18 +610,25 @@
       <option name="project" value="LOCAL" />
       <updated>1590496518965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: 提交 SpringBoot 初始化代码阅读记录">
+      <created>1590583621543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590583621543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28000000" />
+    <option name="totallyTimeSpent" value="36925000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-11" width="1855" height="1092" extended-state="6" />
+    <frame x="67" y="-4" width="1853" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65555555" visible="true" weight="0.13835086" />
-      <window_info id="Structure" order="1" sideWeight="0.34444445" side_tool="true" visible="true" weight="0.13835086" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.905102" visible="true" weight="0.28444937" />
+      <window_info id="Structure" order="1" sideWeight="0.094897956" side_tool="true" visible="true" weight="0.28444937" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -436,7 +636,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36020407" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36734694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.18571429" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +654,7 @@
       <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="18" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="19" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="20" visible="true" weight="0.4489796" />
+      <window_info anchor="bottom" id="Run Dashboard" order="20" weight="0.4489796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.23574986" />
@@ -475,7 +675,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:提交阅读Spring源码记录代码" />
     <MESSAGE value="feat: 提交 AnnotationConfigApplicationContext 构造方法的阅读" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交 AnnotationConfigApplicationContext 构造方法的阅读" />
+    <MESSAGE value="feat: 提交 SpringBoot 初始化代码阅读记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交 SpringBoot 初始化代码阅读记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -508,440 +709,466 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/factory/DefaultUserFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="50">
+          <caret line="430" column="98" lean-forward="true" selection-start-line="430" selection-start-column="98" selection-end-line="430" selection-end-column="98" />
+          <folding>
+            <element signature="e#4523#4550#0" expanded="true" />
+            <element signature="e#7187#7188#0" expanded="true" />
+            <element signature="e#7234#7235#0" expanded="true" />
+            <element signature="e#7702#7703#0" expanded="true" />
+            <element signature="e#7737#7738#0" expanded="true" />
+            <element signature="e#8040#8041#0" expanded="true" />
+            <element signature="e#8095#8096#0" expanded="true" />
+            <element signature="e#11349#11350#0" expanded="true" />
+            <element signature="e#11377#11378#0" expanded="true" />
+            <element signature="e#14677#14678#0" expanded="true" />
+            <element signature="e#14731#14732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyProcessorSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1261">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="251" column="46" lean-forward="true" selection-start-line="251" selection-start-column="46" selection-end-line="251" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/AbstractMonitoringInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/AbstractTraceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2713">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding>
+            <element signature="e#3839#3840#0" expanded="true" />
+            <element signature="e#3896#3897#0" expanded="true" />
+            <element signature="e#4111#4112#0" expanded="true" />
+            <element signature="e#4164#4165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/AsyncExecutionAspectSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="163" column="35" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/AsyncExecutionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="112" column="39" lean-forward="true" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/AsyncUncaughtExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/ConcurrencyThrottleInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/CustomizableTraceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="246" column="97" lean-forward="true" selection-start-line="246" selection-start-column="97" selection-end-line="246" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/DebugInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/ExposeBeanNameAdvisors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="103" column="81" lean-forward="true" selection-start-line="103" selection-start-column="81" selection-end-line="103" selection-end-column="81" />
+          <folding>
+            <element signature="e#4740#4767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/ExposeInvocationInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/interceptor/JamonPerformanceMonitorInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/annotation/AnnotationClassFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/pojo/User.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/annotation/AnnotationMatchingPointcut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="-595">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/annotation/AnnotationMethodMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/annotation/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/UserDefaultMain.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractBeanFactoryPointcutAdvisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="-1030">
+          <caret line="65" column="68" lean-forward="true" selection-start-line="65" selection-start-column="68" selection-end-line="65" selection-end-column="68" />
+          <folding>
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/resources/META-INF/services">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractExpressionPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractGenericPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractRegexpMethodPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="143" column="62" lean-forward="true" selection-start-line="143" selection-start-column="62" selection-end-line="143" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AnnotatedGenericBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <caret lean-forward="true" />
           <folding>
-            <element signature="e#4016#4017#0" expanded="true" />
+            <element signature="e#0#30451#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="87" column="35" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotatedBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        <state relative-caret-position="-223">
+          <caret line="309" column="50" selection-start-line="309" selection-start-column="33" selection-end-line="309" selection-end-column="50" />
           <folding>
-            <element signature="e#5746#5747#0" expanded="true" />
-            <element signature="e#5802#5803#0" expanded="true" />
+            <element signature="e#6061#6062#0" expanded="true" />
+            <element signature="e#6113#6114#0" expanded="true" />
+            <element signature="e#8713#8714#0" expanded="true" />
+            <element signature="e#8759#8760#0" expanded="true" />
+            <element signature="e#10800#10801#0" expanded="true" />
+            <element signature="e#10851#10852#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionReaderUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/ClassFilters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2907">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="722">
+          <caret line="152" column="55" lean-forward="true" selection-start-line="152" selection-start-column="55" selection-end-line="152" selection-end-column="55" />
+          <folding>
+            <element signature="e#4129#4156#0" expanded="true" />
+            <element signature="e#4332#4333#0" expanded="true" />
+            <element signature="e#4363#4364#0" expanded="true" />
+            <element signature="e#4819#4820#0" expanded="true" />
+            <element signature="e#4877#4878#0" expanded="true" />
+            <element signature="e#4919#4920#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/support/GenericApplicationContext.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/ComposablePointcut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5282">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        <state relative-caret-position="498">
+          <caret line="186" column="51" lean-forward="true" selection-start-line="186" selection-start-column="51" selection-end-line="186" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/ControlFlowPointcut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16568">
-          <caret line="976" selection-start-line="976" selection-end-line="976" />
+        <state relative-caret-position="-639">
+          <caret line="65" column="77" lean-forward="true" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
+          <folding>
+            <element signature="e#1784#1785#0" expanded="true" />
+            <element signature="e#1808#1809#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DefaultBeanFactoryPointcutAdvisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1501">
-          <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+        <state relative-caret-position="359">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#1665#1666#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangTwoServiceImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DefaultIntroductionAdvisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="-399">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/BeanMain.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DefaultPointcutAdvisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        <state relative-caret-position="-240">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#2336#2337#0" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2449#2450#0" expanded="true" />
+            <element signature="e#2476#2477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DelegatePerTargetObjectIntroductionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#5347#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DelegatingIntroductionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DynamicMethodMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DynamicMethodMatcherPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/ExpressionPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/IntroductionInfoSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/JdkRegexpMethodPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/MethodMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="274" column="91" selection-start-line="274" selection-start-column="91" selection-end-line="274" selection-end-column="91" />
+          <folding>
+            <element signature="e#4365#4392#0" expanded="true" />
+            <element signature="e#9393#9420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/NameMatchMethodPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/NameMatchMethodPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/Pointcuts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1121">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/RegexpMethodPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1043">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="e#3954#3955#0" expanded="true" />
+            <element signature="e#3997#3998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/resources/bean_request">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="399">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/BeanNameAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangTwoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanWare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/BeanDefinitionCreationMain.java">
+    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/AnnoBeanMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18164">
-          <caret line="1102" selection-start-line="1102" selection-end-line="1102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanDefinitionHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#3373#3374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4503">
-          <caret line="271" selection-start-line="271" selection-end-line="271" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="38" column="101" selection-start-line="38" selection-start-column="101" selection-end-line="38" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="639">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springlearn/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-888" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2204">
-          <caret line="147" column="32" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#5308#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#4833#4834#0" expanded="true" />
-            <element signature="e#4854#4855#0" expanded="true" />
-            <element signature="e#4987#4988#0" expanded="true" />
-            <element signature="e#5046#5047#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE.jar!/org/springframework/web/context/ContextLoader.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="118" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="315" column="9" selection-start-line="315" selection-start-column="9" selection-end-line="315" selection-end-column="9" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#10323#10324#0" expanded="true" />
-            <element signature="e#10352#10353#0" expanded="true" />
-            <element signature="e#10619#10649#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+    <entry file="file://$PROJECT_DIR$/springlearn/spring-beans/src/main/java/com/yang/bean/anno/YangBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/request/async/WebAsyncUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#10101#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="137" column="59" selection-start-line="137" selection-start-column="59" selection-end-line="137" selection-end-column="59" />
+        <state relative-caret-position="387">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3437#3464#0" expanded="true" />
-            <element signature="e#4282#4283#0" expanded="true" />
-            <element signature="e#4326#4327#0" expanded="true" />
-            <element signature="e#5499#5500#0" expanded="true" />
-            <element signature="e#7523#7524#0" expanded="true" />
-            <element signature="e#7610#7611#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/org/apache/catalina/core/StandardContextValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="882" selection-start-line="882" selection-end-line="882" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="290" selection-start-line="290" selection-end-line="290" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.35/tomcat-embed-websocket-9.0.35.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/filter/RequestContextFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/org/apache/catalina/core/StandardWrapperValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/javax/servlet/http/HttpServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35-sources.jar!/javax/servlet/http/HttpServletRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1025" selection-start-line="1025" selection-end-line="1025" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6783">
-          <caret line="423" selection-start-line="423" selection-end-line="423" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.6.RELEASE/spring-webmvc-5.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <element signature="e#2689#2690#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="779" column="49" selection-start-line="779" selection-start-column="49" selection-end-line="779" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE-sources.jar!/org/springframework/boot/WebApplicationType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="271" selection-start-line="271" selection-end-line="271" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot-source-learn/src/main/java/com/yang/bootsourcelearn/BootSourceLearnApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="39" column="85" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="422" column="30" selection-start-line="422" selection-start-column="30" selection-end-line="422" selection-end-column="30" />
-          <folding>
-            <element signature="e#9896#9897#0" expanded="true" />
-            <element signature="e#9929#9930#0" expanded="true" />
           </folding>
         </state>
       </provider>
