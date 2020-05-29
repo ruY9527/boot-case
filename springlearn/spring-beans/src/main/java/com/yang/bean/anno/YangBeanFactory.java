@@ -54,7 +54,7 @@ public class YangBeanFactory implements BeanFactoryAware {
     @Override
     public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
 
-        System.out.println("获取的BeanFactory名字" + beanFactory.getClass());
+        // System.out.println("获取的BeanFactory名字" + beanFactory.getClass());
 
         YangBeanFactory.beanFactory = beanFactory;
     }

@@ -1,5 +1,6 @@
 package com.yang.bootsourcelearn;
 
+import org.springframework.beans.BeanUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -41,8 +42,25 @@ public class BootSourceLearnApplication {
      *      这个方法 org.springframework.boot.context.event.EventPublishingRunListener 获取出这个对象.
      *      listeners.starting(); 这个方法是对上面获取肚饿 Listener 调用 start 开始方法.
      *
+     *      new ApplicationArguments / new出一个这个类,这里目前还不是很清楚这个类的详细作用是什么.
+     *      prepareEnvironment(listeners, applicationArguments); 从这个方法的名字来看,还是可以具体看到其作用是:准备环境.
+     *      listeners : SpringApplicationRunListeners 中有 listeners:EventPushishingRunListener. applicationArguments这个对应的值不是很清楚.
      *
+     *      走进prepareEnvironment方法里面,getOrCreateEnvironment,可以很好的理解这个方法为 获取或者创建环境,肯定是先获取,如果是获取到没有的话,就会走创建的方法.
+     *      这里是可以看到返回的是 StandardServletEnvironment类. configureEnvironment()这个方法就是对获取出来的Environment进行配置处理.
+     *      listeners.environmentPrepared(environment);  为监听器准备环境.
+     *      bindToSpringApplication(environment);  从字面理解来看,这里是给环境绑定到SpringApplication或者给SpringApplication绑定enviornment.
+     *      整理来说这里给人的感觉就是对环境的准备和处理等类似的操作.
      *
+     *      createApplicationContext();  这里可以很明显的感觉到的意思就是创建ApplicationContext.
+     *      org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext
+     *      这里是走到case:SERVLET 里面, 使用Class.forName(); 来创建一个 AnnotationConfigServletWebServerApplicationContext 对象.
+     *      {@link BeanUtils} 走到BeanUtils中,instantiateClass方法, 这个方法的意思可以从字面上理解为初始化bean.
+     *      可以看到这个方法中,先是对传入进来的class进行非null判断,然后判断是否是接口,如果是接口的话,就不给初始化,因为你是new不可一个接口的.后面就是
+     *      调用一些反射的API等操作,来实例化出一个对象来.
+     *
+     *      getSpringFactoriesInstances() TODO 走漏了
+     *      prepareContext() 准备Context,
      *
      *
      * @param args

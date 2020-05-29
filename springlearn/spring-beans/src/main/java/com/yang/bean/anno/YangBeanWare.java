@@ -32,7 +32,7 @@ public class YangBeanWare implements BeanNameAware {
     @Override
     public void setBeanName(String name) {
 
-        System.out.println("YangBeanWare方法中的name对应的值是" + name);
+        // System.out.println("YangBeanWare方法中的name对应的值是" + name);
         beanBean = name;
     }
 

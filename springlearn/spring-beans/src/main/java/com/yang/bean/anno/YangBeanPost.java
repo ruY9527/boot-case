@@ -45,7 +45,7 @@ public class YangBeanPost implements BeanPostProcessor {
     @Override
     public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
 
-        System.out.println(" YangBeanPost 中 beanName的值是 : " + beanName);
+        // System.out.println(" YangBeanPost 中 beanName的值是 : " + beanName);
         return bean;
     }
 

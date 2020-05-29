@@ -94,4 +94,18 @@ public class AnnoBeanMain {
 
         System.out.println("AnnoBeanMain 无惨构造方法");
     }
+
+    /***
+     *  打印构造方法Log
+     *   YangBeanPost中的无参构造方法
+     * AnnoBeanMain 无惨构造方法
+     * YangBeanFactory 构造函数中调用方法
+     * YangOne构造函数方法
+     * YangServiceImpl 无参构造函数
+     * YangTwo 构造函数方法
+     * YangTwoServiceImpl 中的无参数构造方法
+     *
+     *
+     *
+     */
 }
