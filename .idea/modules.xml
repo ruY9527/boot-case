@@ -10,6 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/boot-source-learn/boot-source-learn.iml" filepath="$PROJECT_DIR$/boot-source-learn/boot-source-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearn/spring-beans/springbeans.iml" filepath="$PROJECT_DIR$/springlearn/spring-beans/springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearn/springlearn.iml" filepath="$PROJECT_DIR$/springlearn/springlearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcninit.iml" filepath="$PROJECT_DIR$/txlcninit/txlcninit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcn-manager/txlcnmanager.iml" filepath="$PROJECT_DIR$/txlcninit/txlcn-manager/txlcnmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcn-order/txlcnorder.iml" filepath="$PROJECT_DIR$/txlcninit/txlcn-order/txlcnorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcn-repository/txlcnrepository.iml" filepath="$PROJECT_DIR$/txlcninit/txlcn-repository/txlcnrepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcn-server/txlcnserver.iml" filepath="$PROJECT_DIR$/txlcninit/txlcn-server/txlcnserver.iml" />
     </modules>
   </component>
 </project>

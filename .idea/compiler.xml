@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="boot-dubbo-consumer" />
-        <module name="boot-source-learn" />
         <module name="boot-dubbo-common" />
+        <module name="boot-dubbo-consumer" />
+        <module name="txlcnserver" />
+        <module name="boot-source-learn" />
         <module name="springbeans" />
+        <module name="txlcnmanager" />
+        <module name="txlcnrepository" />
+        <module name="txlcnorder" />
         <module name="boot-dubbo-prodiver" />
       </profile>
     </annotationProcessing>
@@ -21,6 +25,11 @@
       <module name="boot-source-learn" target="1.8" />
       <module name="springbeans" target="1.8" />
       <module name="springlearn" target="1.8" />
+      <module name="txlcninit" target="1.8" />
+      <module name="txlcnmanager" target="1.8" />
+      <module name="txlcnorder" target="1.8" />
+      <module name="txlcnrepository" target="1.8" />
+      <module name="txlcnserver" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,6 +38,10 @@
       <module name="boot-dubbo-consumer" options="-parameters" />
       <module name="boot-dubbo-prodiver" options="-parameters" />
       <module name="boot-source-learn" options="-parameters" />
+      <module name="txlcnmanager" options="-parameters" />
+      <module name="txlcnorder" options="-parameters" />
+      <module name="txlcnrepository" options="-parameters" />
+      <module name="txlcnserver" options="-parameters" />
     </option>
   </component>
 </project>
