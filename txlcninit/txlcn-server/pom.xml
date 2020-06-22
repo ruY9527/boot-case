@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>txlcn-server</artifactId>
-
+    <description> Eureka Server 端. 作为注册中心.</description>
 
     <dependencies>
 

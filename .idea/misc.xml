@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/springlearn/pom.xml" />
         <option value="$PROJECT_DIR$/boot-source-learn/pom.xml" />
         <option value="$PROJECT_DIR$/txlcninit/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-basic-io/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-messgae-stream-basic/pom.xml" />
       </list>
     </option>
   </component>

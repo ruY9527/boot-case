@@ -1,0 +1,29 @@
+server:
+  port: 9005
+
+spring:
+  application:
+    name: gavinyang-repository-service
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/lc_repository?serverTimeZone=UTC
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+
+eureka:
+  client:
+    service-url: http://GavinYang:GavinYang@127.0.0.1:8761/eureka/
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 10000
+        readTimeout: 10000
+
+# 连接 tx-lcn 的 maager-address
+tx-lcn:
+  client:
+    manager-address: 127.0.0.1:8070
