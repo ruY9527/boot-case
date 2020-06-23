@@ -7,15 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="boot-dubbo-common" />
-        <module name="boot-dubbo-prodiver" />
+        <module name="txlcnorder" />
         <module name="boot-dubbo-consumer" />
         <module name="txlcnserver" />
         <module name="boot-source-learn" />
         <module name="springbeans" />
+        <module name="spring-source-read" />
         <module name="boot-messgae-stream-basic" />
-        <module name="txlcnmanager" />
-        <module name="txlcnorder" />
         <module name="txlcnrepository" />
+        <module name="txlcnmanager" />
+        <module name="boot-dubbo-prodiver" />
         <module name="boot-basic-io" />
       </profile>
     </annotationProcessing>
@@ -27,6 +28,7 @@
       <module name="boot-dubbo-prodiver" target="1.8" />
       <module name="boot-messgae-stream-basic" target="1.8" />
       <module name="boot-source-learn" target="1.8" />
+      <module name="spring-source-read" target="1.5" />
       <module name="springbeans" target="1.8" />
       <module name="springlearn" target="1.8" />
       <module name="txlcninit" target="1.8" />

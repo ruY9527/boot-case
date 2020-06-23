@@ -1,0 +1,9 @@
+parse --->  enter ---> process ---> attribute ---> flow ---> desugar ---> generate
+
+parse : 读取.java源文件,做词法分析(LEXER) 和 语法分析(PARSER)
+enter : 生成符号表
+process : 处理注解
+attr : 检查语义合法性,常量折叠
+flow : 数据流分析
+desugar : 去除语法糖
+generate : 生成字节码

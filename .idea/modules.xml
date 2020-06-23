@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/boot-dubbo-init/boot-dubbo-prodiver/boot-dubbo-prodiver.iml" filepath="$PROJECT_DIR$/boot-dubbo-init/boot-dubbo-prodiver/boot-dubbo-prodiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-messgae-stream-basic/boot-messgae-stream-basic.iml" filepath="$PROJECT_DIR$/boot-messgae-stream-basic/boot-messgae-stream-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-source-learn/boot-source-learn.iml" filepath="$PROJECT_DIR$/boot-source-learn/boot-source-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-source-read/spring-source-read.iml" filepath="$PROJECT_DIR$/spring-source-read/spring-source-read.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearn/spring-beans/springbeans.iml" filepath="$PROJECT_DIR$/springlearn/spring-beans/springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearn/springlearn.iml" filepath="$PROJECT_DIR$/springlearn/springlearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/txlcninit/txlcninit.iml" filepath="$PROJECT_DIR$/txlcninit/txlcninit.iml" />
