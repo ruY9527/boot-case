@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/boot-basic-io/pom.xml" />
         <option value="$PROJECT_DIR$/boot-messgae-stream-basic/pom.xml" />
         <option value="$PROJECT_DIR$/springsourceread/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-mvc-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-source-read/pom.xml" />
       </list>
     </option>
   </component>
