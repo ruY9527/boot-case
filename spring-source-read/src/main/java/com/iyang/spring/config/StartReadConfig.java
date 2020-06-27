@@ -18,7 +18,7 @@ import org.springframework.context.annotation.ComponentScan;
  *</PRE>
  ***************************************************************************/
 
-@ComponentScan(value = {"com.iyang.spring"})
+//@ComponentScan(value = {"com.iyang.spring"})
 public class StartReadConfig {
 
 

@@ -22,15 +22,9 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 
 public class SpringStartMain {
-
     public static void main(String[] args) {
-
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(StartReadConfig.class);
-
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext("com.iyang.spring");
         YangBeanOne yangBeanOne = context.getBean(YangBeanOne.class);
-
         System.out.println(yangBeanOne.getClass().toString());
-
     }
-
 }

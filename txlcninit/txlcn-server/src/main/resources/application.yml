@@ -19,4 +19,11 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://GavinYang:GavinYang@${eureka.instance.hostname}:${server.port}/eureka/
-
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: ALWAYS
