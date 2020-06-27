@@ -1,5 +1,6 @@
 package com.yang.bootsourcelearn;
 
+import com.yang.bootsourcelearn.events.GavinEvent;
 import org.springframework.beans.BeanUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;
@@ -75,6 +76,7 @@ public class BootSourceLearnApplication {
 
         // DispatcherServlet
 
+        applicationContext.publishEvent(new GavinEvent(applicationContext,"来自GavinYang选手发送出来的Event事件"));
     }
 
 }
