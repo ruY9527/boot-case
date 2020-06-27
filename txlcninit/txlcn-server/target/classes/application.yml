@@ -12,8 +12,7 @@ spring:
 
 
 eureka:
-  dashboard:
-    path: /gavinyang
+  dashboard: /gavinyang
   instance:
     hostname: localhost
   client:
