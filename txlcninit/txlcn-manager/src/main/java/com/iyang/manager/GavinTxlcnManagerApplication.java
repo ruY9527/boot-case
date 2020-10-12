@@ -21,6 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  ***************************************************************************/
 
 @SpringBootApplication
+// 启动 tx-manager 事务管理器
 @EnableTransactionManagerServer
 public class GavinTxlcnManagerApplication {
 

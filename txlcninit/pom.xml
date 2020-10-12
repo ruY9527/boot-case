@@ -12,6 +12,7 @@
         <module>txlcn-manager</module>
         <module>txlcn-order</module>
         <module>txlcn-repository</module>
+        <module>txlcn-common</module>
     </modules>
     <packaging>pom</packaging>
 
