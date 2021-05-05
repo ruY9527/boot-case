@@ -1,7 +1,7 @@
-package com.iyang.bootmybatisplus.mapper;
+package com.iyang.boot.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.iyang.bootmybatisplus.pojo.User;
+import com.iyang.boot.pojo.User;
 
 /**
  * @Author: Mu_YI
