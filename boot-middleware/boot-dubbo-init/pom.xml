@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>boot-dubbo-init</artifactId>
+	<packaging>pom</packaging>
+
+	<parent>
+		<groupId>com.ruY9527</groupId>
+		<artifactId>boot-middleware</artifactId>
+		<version>${revision}</version>
+	</parent>
+
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
+	<modules>
+		<module>boot-dubbo-common</module>
+		<module>boot-dubbo-prodiver</module>
+		<module>boot-dubbo-consumer</module>
+	</modules>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.ruY9527</groupId>
+        <artifactId>boot-case</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <artifactId>boot-middleware</artifactId>
+    <packaging>pom</packaging>
+
+
+    <modules>
+        <module>boot-sharding</module>
+        <module>boot-rocketmq</module>
+        <module>boot-prometheus</module>
+        <module>boot-mybatis-plus</module>
+        <module>boot-kafka-case</module>
+        <module>boot-dubbo-init</module>
+    </modules>
+
+</project>

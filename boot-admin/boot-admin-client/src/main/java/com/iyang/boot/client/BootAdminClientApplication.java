@@ -2,7 +2,6 @@ package com.iyang.boot.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
  * @Author: Mu_Yi
@@ -11,7 +10,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * @qq: 1411091515
  */
 
-@EnableDiscoveryClient
+// @EnableDiscoveryClient
 @SpringBootApplication
 public class BootAdminClientApplication {
 
