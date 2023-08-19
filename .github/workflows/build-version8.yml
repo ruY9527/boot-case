@@ -19,3 +19,24 @@ jobs:
           distribution: 'temurin'
       - name: Build with Maven
         run: mvn clean install
+      - name: Login Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password:  ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+      - name:  Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+      - name: Build admin server docker and push
+        uses: docker/build-push-action@v2
+        with:
+          context: ./
+          file: ./docker/boot-admin-server.Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/boot-admin-server:v1
+      - name: Build boot prometheus docker and push
+        uses: docker/build-push-action@v2
+        with:
+          context: ./
+          file: ./docker/boot-prometheus.Dockerfile dckr_pat_c-5f2scCt60EWhyk4bHAXIANRew
+          push: true
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/boot-prometheus:v1
