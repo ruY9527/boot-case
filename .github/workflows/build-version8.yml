@@ -37,6 +37,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: ./
-          file: ./docker/boot-prometheus.Dockerfile dckr_pat_c-5f2scCt60EWhyk4bHAXIANRew
+          file: ./docker/boot-prometheus.Dockerfile
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/boot-prometheus:v1

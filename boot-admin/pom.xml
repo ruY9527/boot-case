@@ -12,6 +12,7 @@
     <modules>
         <module>boot-admin-server</module>
         <module>boot-admin-client</module>
+        <module>boot-eureka-server</module>
     </modules>
 
     <modelVersion>4.0.0</modelVersion>
