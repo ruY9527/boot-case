@@ -40,3 +40,10 @@ jobs:
           file: ./docker/boot-prometheus.Dockerfile
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/boot-prometheus:v1
+      - name: Build boot eureka docker and push
+        uses: docker/build-push-action@v2
+        with:
+          context: ./
+          file: ./docker/boot-eureka-server.Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/boot-eureka-server:v1
