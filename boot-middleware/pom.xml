@@ -18,8 +18,8 @@
         <module>boot-rocketmq</module>
         <module>boot-prometheus</module>
         <module>boot-mybatis-plus</module>
-        <module>boot-kafka-case</module>
-        <module>boot-dubbo-init</module>
+        <module>boot-kafka</module>
+        <module>boot-dubbo</module>
     </modules>
 
 </project>

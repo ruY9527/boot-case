@@ -14,17 +14,9 @@
 
     <modules>
         <module>boot-basic-io</module>
-        <module>boot-java-basic</module>
-        <module>boot-write</module>
         <module>boot-security</module>
-        <module>boot-security-login</module>
-        <module>boot-source-conditional</module>
-        <module>boot-source-learn</module>
         <module>boot-source-read</module>
-        <module>spring-extend</module>
-        <module>spring-source-read</module>
-        <module>spring-web-mvc-learn</module>
-        <module>springlearn</module>
+        <module>spring-learn</module>
     </modules>
 
 </project>

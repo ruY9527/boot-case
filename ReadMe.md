@@ -5,25 +5,21 @@
 下面的每个模块都是整合，无关其他;便利自己也便利其他
 
 
-
 # 模块
+## boot-admin 模块
+- boot-admin-client:  连接上 SpringBoot Admin
+- boot-admin-server:  SpringBoot Admin服务端展示
+- boot-eureka-server: Eureka界面展示
 
-| 模块名字                  | 模块作用 | 备注 |
-| ------------------------- | -------- | ---- |
-| boot-admin                |          |      |
-| boot-dubbo-init           |          |      |
-| boot-kafka                |          |      |
-| boot-message-stream-basic |          |      |
-| boot-mybatis-plus         |          |      |
-| boot-redission            |          |      |
-| boot-security             |          |      |
-| boot-source-conditional   |          |      |
-| boot-source-learn         |          |      |
-| spring-extend             |          |      |
-| spring-source-read        |          |      |
-| spring-web-mvc-learn      |          |      |
-| springlearn               |          |      |
-| txlcninit                 |          |      |
 
+
+## boot-base 基础和源码阅读模块
+- boot-baise-io:       相关的基础操作以及平常好奇点测试
+- boot-security:       security模块
+- boot-source-read:    Springboot 源码阅读和测试
+- spring-learn:        Spring源码阅读和调试
+
+## boot-middleware 整合中间模块测试
+- 
 
 

@@ -1,9 +1,13 @@
 # Run Listeners
 org.springframework.boot.SpringApplicationRunListener=\
-com.iyang.bootsourceread.listener.GavinYangEventPublishingRunListener
+com.ruY9527.application.listener.GavinYangEventPublishingRunListener
 
 
 # Application Listeners
 org.springframework.context.ApplicationListener=\
-com.iyang.bootsourceread.listener.GavinYangSendMessageListener,\
-com.iyang.bootsourceread.listener.CommonApplicationListener
+com.ruY9527.application.listener.GavinYangSendMessageListener,\
+com.ruY9527.application.listener.CommonApplicationListener
+
+# Application Context Initializers
+org.springframework.context.ApplicationContextInitializer=\
+com.ruY9527.application.init.GavinYangApplicationContextInitializer
