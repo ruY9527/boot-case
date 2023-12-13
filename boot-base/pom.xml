@@ -17,6 +17,7 @@
         <module>boot-security</module>
         <module>boot-source-read</module>
         <module>spring-learn</module>
+        <module>boot-sql-parser</module>
     </modules>
 
 </project>
