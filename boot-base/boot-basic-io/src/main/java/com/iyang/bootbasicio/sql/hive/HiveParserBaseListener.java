@@ -1,4 +1,4 @@
-package com.iyang.bootbasicio.hive;// Generated from E:/coding_record/github_learn_project/grammars-v4/sql/hive/v4/HiveParser.g4 by ANTLR 4.13.1
+package com.iyang.bootbasicio.sql.hive;// Generated from E:/coding_record/github_learn_project/grammars-v4/sql/hive/v4/HiveParser.g4 by ANTLR 4.13.1
 
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;

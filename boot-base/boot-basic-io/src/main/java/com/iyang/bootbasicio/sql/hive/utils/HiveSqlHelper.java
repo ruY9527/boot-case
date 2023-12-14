@@ -1,7 +1,7 @@
-package com.iyang.bootbasicio.hive.utils;
+package com.iyang.bootbasicio.sql.hive.utils;
 
-import com.iyang.bootbasicio.hive.HiveLexer;
-import com.iyang.bootbasicio.hive.HiveParser;
+import com.iyang.bootbasicio.sql.hive.HiveLexer;
+import com.iyang.bootbasicio.sql.hive.HiveParser;
 import lombok.extern.slf4j.Slf4j;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;

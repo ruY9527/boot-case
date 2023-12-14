@@ -1,4 +1,4 @@
-package com.iyang.bootbasicio.hive.utils;
+package com.iyang.bootbasicio.sql.hive.utils;
 
 /***
  * @author: yang_bao

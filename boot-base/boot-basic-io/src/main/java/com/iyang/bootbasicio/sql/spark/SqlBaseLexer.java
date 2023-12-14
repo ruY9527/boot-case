@@ -1,5 +1,5 @@
 // Generated from SqlBase.g4 by ANTLR 4.7
-package com.iyang.bootbasicio.sql;
+package com.iyang.bootbasicio.sql.spark;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
